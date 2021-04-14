@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Random1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PayOff1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PayOff2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vanilla1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PayOff3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vanilla2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PayOffBridge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vanilla3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StatisticsMC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleMC7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Wrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvergenceTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PathDependent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExoticEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExoticBSEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Random2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Normals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PathDependentAsian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AntiThetic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParkMiller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMCMain1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PayOff1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMCMain2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PayOff2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMCMain3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMCMain4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vanilla1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanillaMain1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PayOff3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vanilla2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanillaMain2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PayOffBridge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanillaMain3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vanilla3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Parameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VanillaMain4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatisticsMC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleMC7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsMain1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvergenceTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StatsMain2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PathDependent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExoticEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExoticBSEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Normals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PathDependentAsian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EquityFXMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AntiThetic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParkMiller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
