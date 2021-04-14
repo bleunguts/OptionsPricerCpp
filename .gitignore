@@ -31,3 +31,5 @@
 *.out
 *.app
 /.vs/OptionsPricerCpp/v16
+/bin
+/.vs/OptionsPricer/v16
