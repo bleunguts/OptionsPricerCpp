@@ -84,6 +84,7 @@
     <ClInclude Include="ConvergenceTable.h" />
     <ClInclude Include="ExoticBSEngine.h" />
     <ClInclude Include="ExoticEngine.h" />
+    <ClInclude Include="Main.h" />
     <ClInclude Include="Normals.h" />
     <ClInclude Include="Parameters.h" />
     <ClInclude Include="ParkMiller.h" />
@@ -96,6 +97,7 @@
     <ClInclude Include="Random1.h" />
     <ClInclude Include="Random2.h" />
     <ClInclude Include="SimpleMC.h" />
+    <ClInclude Include="SimpleMC1.h" />
     <ClInclude Include="SimpleMC2.h" />
     <ClInclude Include="SimpleMC3.h" />
     <ClInclude Include="SimpleMC4.h" />
@@ -117,6 +119,7 @@
     <ClCompile Include="EquityFXMain.cpp" />
     <ClCompile Include="ExoticBSEngine.cpp" />
     <ClCompile Include="ExoticEngine.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Normals.cpp" />
     <ClCompile Include="Parameters.cpp" />
     <ClCompile Include="ParkMiller.cpp" />

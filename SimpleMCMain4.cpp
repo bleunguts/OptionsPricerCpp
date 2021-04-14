@@ -6,6 +6,7 @@ requires
 */
 #include "stdafx.h"
 #include "SimpleMC2.h"
+#include "Main.h"
 #include <iostream>
 using namespace std;
 
@@ -17,7 +18,7 @@ using namespace std;
 // r = 0.05 (risk free rate)
 // n = 1000 paths
 // Result 10.5126 / 12.739
-int main____()
+int SimpleMCDemo4()
 {
 	double Expiry;
 	double Strike;

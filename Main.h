@@ -1,0 +1,12 @@
+#pragma once
+int SimpleMCDemo1();
+int SimpleMCDemo2();
+int SimpleMCDemo3();
+int SimpleMCDemo4();
+int SimpleMCDemo7();
+int SimpleMCDemo7b();
+int VanillaDemo();
+int VanillaDemo2();
+int VanillaDemo3();
+int VanillaDemo4();
+int EquityFXMainDemo();

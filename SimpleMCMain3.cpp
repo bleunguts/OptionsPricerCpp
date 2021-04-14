@@ -6,10 +6,11 @@ requires
 */
 #include "stdafx.h"
 #include "SimpleMC2.h"
+#include "Main.h"
 #include <iostream>
 using namespace std;
 
-int main___()
+int SimpleMCDemo3()
 {
 	double Expiry;
 	double Strike;

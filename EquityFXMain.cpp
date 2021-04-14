@@ -15,16 +15,18 @@ PayOffBridge.cpp
 Random2.cpp
 */
 
+using namespace std;
+#include "main.h"
 #include "ParkMiller.h"
 #include <iostream>
-using namespace std;
 #include "StatisticsMC.h"
 #include "ConvergenceTable.h"
 #include "AntiThetic.h"
 #include "PathDependentAsian.h"
 #include "ExoticBSEngine.h"
 
-int main()
+
+int EquityFXMainDemo()
 {
 	double Expiry;
 	double Strike;
@@ -92,7 +94,4 @@ int main()
 	double tmp;
 	cin >> tmp;
 	return 0;
-
-
-
 }

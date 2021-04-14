@@ -1,6 +1,7 @@
 // Require Random1.cpp
 #include "stdafx.h"
-
+#include "Main.h"
+#include "SimpleMC1.h"
 #include "Random1.h"
 #include <iostream>
 #include <cmath>
@@ -35,7 +36,7 @@ double SimpleMonteCarlo1(double Expiry,
 	return mean;
 }
 
-int main_()
+int SimpleMCDemo1()
 {
 	double Expiry;
 	double Strike;

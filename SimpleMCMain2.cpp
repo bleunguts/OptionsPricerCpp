@@ -17,7 +17,7 @@ using namespace std;
 // r = 0.05 (risk free rate)
 // n = 1000 paths
 // Result 10.5126 / 12.739
-int main__()
+int SimpleMCDemo2()
 {
 	double Expiry;
 	double Strike;

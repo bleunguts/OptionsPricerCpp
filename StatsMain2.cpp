@@ -10,13 +10,14 @@
 */
 #include "stdafx.h"
 #include "SimpleMC7.h"
+#include "Main.h"
 #include <iostream>
 using namespace std;
 #include "Vanilla3.h"
 #include "StatisticsMC.h"
 #include "ConvergenceTable.h"
 
-int main_________()
+int SimpleMCDemo7b()
 {
 	double Expiry;
 	double Strike;

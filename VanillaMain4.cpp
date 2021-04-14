@@ -11,8 +11,9 @@
 using namespace std;
 #include "Vanilla3.h"
 #include "Parameters.h"
+#include "Main.h"
 
-int main________()
+int VanillaDemo4()
 {
 	double Expiry;
 	double Strike;

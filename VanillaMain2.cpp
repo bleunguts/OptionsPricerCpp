@@ -9,9 +9,10 @@
 #include <iostream>
 using namespace std;
 #include "Vanilla2.h"
+#include "Main.h"
 
 
-int main______()
+int VanillaDemo2()
 {
 	double Expiry;
 	double Strike;
